@@ -1,9 +1,9 @@
 #include <studio.h>
 #include <cs50.h>
-int main(void)
+int main(void)//afgan syakuro sudah dicek pMokk
 {
     string name = get_string("what's is your name? ");
 
     printf("hello, %s\n", name);
 }
-// afgan syakuro sudah dicek pMoko
+
