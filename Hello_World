@@ -1,6 +1,7 @@
 #include <studio.h>
 #include <cs50.h>
-int main(void)//afgan syakuro sudah dicek pMokk
+//afgan syakuro sudah dicek pMokk
+int main(void)
 {
     string name = get_string("what's is your name? ");
 
