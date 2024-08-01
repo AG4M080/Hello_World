@@ -6,3 +6,4 @@ int main(void)
 
     printf("hello, %s\n", name);
 }
+// afgan syakuro sudah dicek Pmoko
